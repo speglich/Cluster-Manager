@@ -1,0 +1,3 @@
+[submodule "Cluster-Manager-Backend"]
+	path = Cluster-Manager-Backend
+	url = https://github.com/speglich/Cluster-Manager-Backend.git
